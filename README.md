@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Fernando Hernandez</h1>
+<h1 align="center">Hi there 👋, I'm Fernando Pérez</h1>
 <h3 font-size="20" align="center">A passionate Software Engineer</h3>
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/FernandoPZ)
