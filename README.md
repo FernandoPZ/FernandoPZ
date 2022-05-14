@@ -8,7 +8,7 @@
 
 Welcome to my Github! I am Fernando Pérez and I am an engineer in software development and management, graduated from the technological university of Tulancingo (UTEC)
 
-<img align="right" alt="img" src="https://github.com/Adogamm/Adogamm/blob/main/cover-image1.jpg?raw=true" width="50%" height="auto" />
+<img align="right" alt="img" src="Game.jpg" width="50%" height="auto" />
 
 ### 🌱 I am currently working on:
 - Grow on my youtube channel
@@ -38,6 +38,3 @@ Welcome to my Github! I am Fernando Pérez and I am an engineer in software deve
 ![Github](https://img.shields.io/badge/-Github-222?style=flat&logo=github)
 ![Linux](https://img.shields.io/badge/-Linux-222?style=flat&logo=linux)
 ![Counter](https://komarev.com/ghpvc/?username=FernandoPZ)
-
-<p>
-	<img width="50%" src="Game.jpg" />
