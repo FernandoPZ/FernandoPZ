@@ -40,4 +40,4 @@ Welcome to my Github! I am Fernando Pérez and I am an engineer in software deve
 ![Counter](https://komarev.com/ghpvc/?username=FernandoPZ)
 
 <p>
-	<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoPZ&theme=dracula&langs_count=5" />
+	<img width="50%" src="Game.jpg" />
