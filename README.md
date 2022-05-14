@@ -1,5 +1,10 @@
 ### Hi there 👋
 ### I am Fernando Pérez
+
+<h1 align="center">Hi there 👋</h1>
+<h1 align="center">Hi, I'm Fernando Hernandez</h1>
+<h3 font-size="20" align="center">A passionate Software Engineer</h3>
+
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/FernandoPZ)
 [![Twitch](https://img.shields.io/badge/-Twitch-6441A4?style=flat&logo=Twitch&logoColor=white)](https://www.twitch.tv/fer_frik)
 [![Facebook](https://img.shields.io/badge/-Facebook-fff?style=flat&logo=Facebook)](https://web.facebook.com/FER.FRIK)
