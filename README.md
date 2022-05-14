@@ -37,7 +37,7 @@ Welcome to my Github! I am Fernando Pérez and I am an engineer in software deve
 ![Flutter](https://img.shields.io/badge/-Flutter-222?style=flat&logo=flutter)
 ![Github](https://img.shields.io/badge/-Github-222?style=flat&logo=github)
 ![Linux](https://img.shields.io/badge/-Linux-222?style=flat&logo=linux)
-![Counter](https://komarev.com/ghpvc/?username=Adogamm)
+![Counter](https://komarev.com/ghpvc/?username=FernandoPZ)
 
 <p>
-	<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adogamm&theme=dracula&langs_count=5" />
+	<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoPZ&theme=dracula&langs_count=5" />
