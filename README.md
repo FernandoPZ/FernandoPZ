@@ -31,10 +31,13 @@ Welcome to my Github! I am Fernando Pérez and I am an engineer in software deve
 ![CSS](https://img.shields.io/badge/-CSS3-222?style=flat&logo=CSS3)
 ![Dart](https://img.shields.io/badge/-Dart-222?style=flat&logo=Dart)
 ![C++](https://img.shields.io/badge/-C++-222?style=flat&logo=C++)
-<br />
+</br>
 
 ![Django](https://img.shields.io/badge/-Django-222?style=flat&logo=django)
 ![Flutter](https://img.shields.io/badge/-Flutter-222?style=flat&logo=flutter)
 ![Github](https://img.shields.io/badge/-Github-222?style=flat&logo=github)
 ![Linux](https://img.shields.io/badge/-Linux-222?style=flat&logo=linux)
+</br>
+
 ![Counter](https://komarev.com/ghpvc/?username=FernandoPZ)
+![wakatime](https://wakatime.com/badge/user/08f29ff4-7eb2-478f-bebd-c448f77e77ba.svg)](https://wakatime.com/@08f29ff4-7eb2-478f-bebd-c448f77e77ba)
