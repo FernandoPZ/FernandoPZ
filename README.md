@@ -40,4 +40,4 @@ Welcome to my Github! I am Fernando Pérez and I am an engineer in software deve
 </br>
 
 ![Counter](https://komarev.com/ghpvc/?username=FernandoPZ)
-![wakatime](https://wakatime.com/badge/user/08f29ff4-7eb2-478f-bebd-c448f77e77ba.svg)](https://wakatime.com/@08f29ff4-7eb2-478f-bebd-c448f77e77ba)
+![wakatime](https://wakatime.com/badge/user/08f29ff4-7eb2-478f-bebd-c448f77e77ba.svg)
